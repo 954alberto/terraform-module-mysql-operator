@@ -1,5 +1,5 @@
 
-resource "kubernetes_namespace" "myaql-operator" {
+resource "kubernetes_namespace" "mysql-operator" {
   metadata {
     name = var.namespace
   }
