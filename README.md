@@ -1,1 +1,2 @@
-# terraform-module-mysql-operator
+# mysql-operator
+
